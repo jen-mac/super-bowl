@@ -8,5 +8,5 @@ Jen (& Chris)
 jam760@psu.edu
 
 
-<a href='http://maps.google.com/maps?q=New+York+city&hl=en&sll=37.0625,-95.677068&sspn=58.598104,135.263672&vpsrc=1&hnear=New+York&t=m&z=11'>View in google maps</a>
+<a href='https://www.google.com/maps/place/673+Crandall+Dr,+State+College,+PA+16803/@40.7941841,-77.9152958,1091m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89cea811c338c695:0xcb8c9bc742a5b01a!8m2!3d40.7941841!4d-77.9127209!16s%2Fg%2F11c28_f63m?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D'>View in google maps</a>
 
